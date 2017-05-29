@@ -1,0 +1,10 @@
+number1:
+ 
+选择python3 
+
+1：pip3 install aiohttp   //异步框架aiohttp
+
+2:pip3  install jinja2  //前端引擎jinja2
+
+3:安装mysql 5.x数据库，然后 安装异步驱动程序aiomysql
+    pip3 install aiomysql
